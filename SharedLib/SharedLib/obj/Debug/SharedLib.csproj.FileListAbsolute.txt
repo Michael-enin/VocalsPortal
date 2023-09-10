@@ -1,0 +1,5 @@
+D:\2021_Projects\VocalsPortal\SharedLib\SharedLib\bin\Debug\SharedLib.dll
+D:\2021_Projects\VocalsPortal\SharedLib\SharedLib\bin\Debug\SharedLib.pdb
+D:\2021_Projects\VocalsPortal\SharedLib\SharedLib\obj\Debug\SharedLib.csprojResolveAssemblyReference.cache
+D:\2021_Projects\VocalsPortal\SharedLib\SharedLib\obj\Debug\SharedLib.dll
+D:\2021_Projects\VocalsPortal\SharedLib\SharedLib\obj\Debug\SharedLib.pdb
